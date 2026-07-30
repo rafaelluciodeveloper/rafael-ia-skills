@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.DS_Store
+*:Zone.Identifier
+.gemini/
+.claude/
+.cursor/
+.env
+.venv/
+venv/
